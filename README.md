@@ -1,2 +1,2 @@
 # crispy-octo-guide
-Constructing a Neural Network using Matlab
+Learning how to construct a Neural Network using Matlab
